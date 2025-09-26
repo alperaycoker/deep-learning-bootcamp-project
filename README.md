@@ -52,6 +52,8 @@ weighted avg       0.89      0.89      0.89      3000
 ```
 
 **Hata Matrisi (Confusion Matrix):**
+
+
 <img width="649" height="547" alt="image" src="https://github.com/user-attachments/assets/a77e6dee-42a0-4761-a9f7-94f25dbd2148" />
 
 
