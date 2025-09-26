@@ -52,9 +52,8 @@ weighted avg       0.89      0.89      0.89      3000
 ```
 
 **Hata Matrisi (Confusion Matrix):**
-*Not: Bu resmi eklemek için, Kaggle'dan indirdiğiniz confusion matrix görselini GitHub deponuza yükleyip yolunu buraya yazmanız gerekmektedir.*
+<img width="649" height="547" alt="image" src="https://github.com/user-attachments/assets/a77e6dee-42a0-4761-a9f7-94f25dbd2148" />
 
-![Hata Matrisi](<img width="649" height="547" alt="image" src="https://github.com/user-attachments/assets/13a097bd-13d3-4c2b-9f52-ee61619ed9c6" />)
 
 
 ## Kaggle Notebook
